@@ -1,0 +1,5 @@
+apiVersion: database.optus.com.au/v1alpha1
+kind: NoSQL
+metadata:
+  name: my-nosql-database
+spec: {}
